@@ -81,7 +81,6 @@
     bottom: 6px;
     transition: width 0.3s;
 }
-
 @media (max-width: 800px){
     .header__nav {
         display: none;

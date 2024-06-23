@@ -49,21 +49,18 @@
     background-color: var(--subBg400);
 }
 .port__item.p5 {
-    background-color: var(--subBg500);
-}
-.port__item.p6 {
     background-color: var(--subBg100);
 }
-.port__item.p7 {
+.port__item.p6 {
     background-color: var(--subBg200);
 }
-.port__item.p8 {
+.port__item.p7 {
     background-color: var(--subBg300);
 }
-.port__item.p9 {
+.port__item.p8 {
     background-color: var(--subBg400);
 }
-.port__item.p10 {
+.port__item.p9 {
     background-color: var(--subBg500);
 }
 .port__item .num {
@@ -103,7 +100,7 @@
     display: block;
     text-align: center;
     padding: 0.625rem 1.5rem;
-    margin-top: 1.5rem;
+    margin-bottom: 5px;
 }
 @media (max-width: 800px){
     .port__title {
